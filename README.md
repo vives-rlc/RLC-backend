@@ -5,10 +5,10 @@
 
 ## Project opzetten
 ### NL
-[Vives Remote Lab Connection opzetten.docx](https://github.com/vives-rlc/RLC-frontend/files/10126444/Vives.Remote.Lab.Connection.opzetten.docx)
+[Vives Remote Lab Connection opzetten.docx](https://github.com/vives-rlc/RLC-backend/files/10132522/Vives.Remote.Lab.Connection.opzetten.docx)
 
 ### EN
-[Vives Remote Lab Connection set up.docx](https://github.com/vives-rlc/RLC-frontend/files/10126445/Vives.Remote.Lab.Connection.set.up.docx)
+[Vives Remote Lab Connection set up.docx](https://github.com/vives-rlc/RLC-backend/files/10132523/Vives.Remote.Lab.Connection.set.up.docx)
 
 ## Back-end functies
 ![scr![screencapture-localhost-8202-api-2022-11-22-17_33_49-2](https://user-images.githubusercontent.com/43674327/204152149-f6ee3e24-4000-4f18-bd68-9505d76c4cf2.png)
